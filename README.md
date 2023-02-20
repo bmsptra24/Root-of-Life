@@ -1,6 +1,7 @@
+<h1>Root of Life</h1>
 This game tells the story of a father who struggles to find a magical root to treat his daughter who has a rare disease.
-
-How to play?
+<br><br><br>
+<h1>How to play?</h1>
 1. Find "Enviroment" on the right side, then click "github-pages"
 
 ![image](https://user-images.githubusercontent.com/109858732/219985317-a1425b2b-f26c-48de-b9dc-fc1f2f8e1788.png)
